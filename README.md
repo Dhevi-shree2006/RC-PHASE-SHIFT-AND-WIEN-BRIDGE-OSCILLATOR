@@ -23,8 +23,10 @@ The frequency of oscillation is given by fo   = 1/2πRC
 <img width="417" height="324" alt="image" src="https://github.com/user-attachments/assets/53ef7b91-7bd4-4e06-b98c-d80970261018" />
 
 ## TABULATION:
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d4ad7868-e82d-489a-a5c9-1e59f583e890" />
 
 ## GRAPH:
+<img width="541" height="442" alt="image" src="https://github.com/user-attachments/assets/68dda26e-843c-4f05-8f56-78058060bb11" />
 
 ## CIRCUIT DIAGRAM:
 ## WIEN BRIDGE OSCILLATOR
@@ -34,6 +36,11 @@ The frequency of oscillation is given by fo   = 1/2πRC
 <img width="417" height="324" alt="image" src="https://github.com/user-attachments/assets/95210d90-f00a-426b-bd1a-54a3a536b2c3" />
 
 ## TABULATION:
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/550534db-037d-4b9b-a4cb-e24c3ab31a07" />
+
+## GRAPH:
+<img width="547" height="365" alt="image" src="https://github.com/user-attachments/assets/79a92aa4-8898-4ba0-9cb6-5242dc8bf2b1" />
+
 
 ## DESIGN:
 ## RC PHASE SHIFT OSCILLATOR
@@ -66,4 +73,4 @@ To prevent loading,
 3.	Measure the output wave frequency and amplitude.
 
 ## RESULT:
-
+Thus, the RC phase shift and wein bridge oscillators are designed and tested using Op-Amp IC741
